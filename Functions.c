@@ -8,6 +8,7 @@ int vracaBrojRadnika() {
 	printf("Unesite broj radnika koji rade u skoli:\n");
 	scanf("%d", &brojRadnika);
 	return brojRadnika;
+
 }
 
 SKOLA* unosPodataka() {
